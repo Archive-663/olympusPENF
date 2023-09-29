@@ -1,6 +1,6 @@
 # Lot no. 007 | Accessories for the Olympus PEN-F half frame SLR
 
-[productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
+![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
 
 ### In this repository:
 - [Pen-F L-Bracket + Grip](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
