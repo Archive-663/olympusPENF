@@ -9,7 +9,7 @@
 - Two point connection system for maximum security.
 
 ### What you'll need:
-- 1x 1/4-20 x 3/16" hex drive pan head screw
+- 1x 1/4-20 x 5/16" hex drive pan head screw
 - 1x 1/4-20 x 17mm Camvate Tripod Screw (Item no. 1987)
 - 1x M4 x 12mm Hex Cap Machine Screw
 - 1x M4 x 8mm Heatset Threaded Insert
