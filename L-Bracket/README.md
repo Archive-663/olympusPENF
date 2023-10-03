@@ -45,7 +45,7 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 ### Assembly help:
 Drill holes to their correct tap size before tapping.
 - M4 heatset inserts require M5.3 bore.
-- M2 heatset inserts require M2.6 bore followed by an M1.6 tap.
+- M2 heatset inserts require M2.6 bore.
 
 You will need to file the Sliding Arm so it slides smoothly in the Base Bracket. Additionally, you will need to file the dove tail on the Side Bracket for a snug fit in the Sliding Arm.
 
